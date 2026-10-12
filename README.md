@@ -1,6 +1,8 @@
 ## Hi there 👋
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ant-u)](https://github.com/stats-organization/github-stats-extended)
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ant-u)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ant-u&hide=html)](https://github.com/stats-organization/github-stats-extended)
+
+<!--[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ant-u)](https://github.com/stats-organization/github-stats-extended) -->
+
 
 <!--
 **ant-u/ant-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
